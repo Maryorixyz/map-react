@@ -3,11 +3,11 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #ffffffee;
+  background-color: #f8f8f8b2;
 }
 .App h1{
+  margin: 20px ;
   color: rgb(20, 71, 148);
-  padding: 7px;
   border-bottom : 3px solid rgb(189, 136, 23);
 }
 .App-header {
@@ -20,4 +20,3 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
